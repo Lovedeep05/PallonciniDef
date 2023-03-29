@@ -1,0 +1,11 @@
+Ettore:50
+Achille:40
+Ulisse:103
+Paride:-90
+Angela:55
+Ugo Foscolo:-104
+Cesare:56
+Aurelio:81
+Augusto:-6
+Macchiavelli:-5
+BruceLee:52
